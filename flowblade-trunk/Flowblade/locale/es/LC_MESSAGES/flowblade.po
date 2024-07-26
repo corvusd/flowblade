@@ -36,14 +36,15 @@ msgstr "5 minutos"
 
 #: app.py:917
 msgid "XDG Data folder location has changed!"
-msgstr ""
+msgstr "¡La ubicación de la carpeta de datos XDG ha cambiado!"
 
 #: app.py:918
 msgid ""
 "Location of <b>Default XDG Data Store</b> has changed because value of "
 "<b>XDG Data Home</b> variable has changed.\n"
 "\n"
-msgstr ""
+msgstr "La ubicación del <b>Almacén de datos XDG predeterminado</b> ha cambiado porque el valor de la variable "
+"<b>Inicio de datos XDG</b> ha cambiado.\n""
 
 #: app.py:919
 msgid ""
@@ -11598,11 +11599,11 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "3 point edit not defoned!"
-#~ msgstr "Render rango no definido!"
+#~ msgstr "¡Edición de 3 puntos no definida!"
 
 #, fuzzy
 #~ msgid "Auto Fades"
-#~ msgstr "Añadir fundido"
+#~ msgstr "Añadir Fundidos"
 
 #~ msgid "Number of tracks:"
 #~ msgstr "Número de pistas"
@@ -11611,30 +11612,30 @@ msgstr ""
 #~ msgstr "Nuevo número de pistas:"
 
 #~ msgid "5 video, 4 audio"
-#~ msgstr "5 de vídeo, audio 4"
+#~ msgstr "5 vídeos, 4 audios"
 
 #~ msgid "4 video, 3 audio"
-#~ msgstr "4 de vídeo, audio 3"
+#~ msgstr "4 vídeos, 3 audios"
 
 #~ msgid "3 video, 2 audio"
-#~ msgstr "3 vídeo, audio 2"
+#~ msgstr "3 vídeos, 2 audios"
 
 #~ msgid "2 video, 1 audio"
-#~ msgstr "2 video, 1 audio"
+#~ msgstr "2 videos, 1 audio"
 
 #, fuzzy
 #~ msgid "7 video, 2 audio"
-#~ msgstr "3 vídeo, audio 2"
+#~ msgstr "3 vídeos, 2 audios "
 
 #, fuzzy
 #~ msgid "2 video, 7 audio"
-#~ msgstr "2 video, 1 audio"
+#~ msgstr "2 videos, 1 audio"
 
 #~ msgid "8 video, 1 audio"
-#~ msgstr "8 video, 1 audio"
+#~ msgstr "8 videos, 1 audio"
 
 #~ msgid "1 video, 8 audio"
-#~ msgstr "1 vídeo, audio 8"
+#~ msgstr "1 vídeo, 8 audios"
 
 #, fuzzy
 #~ msgid "Icons and color optimized for:"
@@ -11692,16 +11693,16 @@ msgstr ""
 #~ msgid "You have to provide a name for the file to be rendered."
 #~ msgstr ""
 #~ "Usted tiene que proporcionar un nombre para el archivo que se va a "
-#~ "representar."
+#~ "renderizar"
 
 #~ msgid " already exists!"
-#~ msgstr " ya existe!"
+#~ msgstr " ¡ya existe!"
 
 #~ msgid "Composite Target Track"
 #~ msgstr "Pistas Objetivo de composición"
 
 #~ msgid "Delete Group and Items?"
-#~ msgstr "Eliminar grupo y artículos?"
+#~ msgstr "¿Eliminar Grupo y Elementos?"
 
 #~ msgid "Are you sure you want to delete group "
 #~ msgstr "¿Está seguro que desea eliminar el grupo "
@@ -11734,27 +11735,27 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Change Type"
-#~ msgstr "Cambiar las pistas"
+#~ msgstr "Cambiar Tipo"
 
 #, fuzzy
 #~ msgid "Current Project Type:"
-#~ msgstr "Modo Proxy actual:"
+#~ msgstr "Tipo de proyecto actual:"
 
 #, fuzzy
 #~ msgid "New Project Type:"
-#~ msgstr "Nuevo Proyecto"
+#~ msgstr "Nuevo Tipo de Proyecto:"
 
 #, fuzzy
 #~ msgid "Normal Project"
-#~ msgstr "Nuevo Proyecto"
+#~ msgstr "Proyecto normal"
 
 #, fuzzy
 #~ msgid "JACK Audio Manager"
-#~ msgstr "Cierre el Administrador de"
+#~ msgstr "Gestor de Audio JACK"
 
 #, fuzzy
 #~ msgid "Output Status"
-#~ msgstr "Estado"
+#~ msgstr "Estado de salida"
 
 #~ msgid "melt XML"
 #~ msgstr "derretir XML"
@@ -11769,28 +11770,28 @@ msgstr ""
 #~ msgstr "Nombre de archivo XML:"
 
 #~ msgid "Render MPEG File:"
-#~ msgstr "Procesar a archivo MPEG:"
+#~ msgstr "Renderizar archivo MPEG:"
 
 #~ msgid "MPEG File for DVD Type:"
-#~ msgstr "Archivo MPEG a formato DVD:"
+#~ msgstr "Archivo MPEG para formato DVD:"
 
 #~ msgid "MPEG File Name:"
 #~ msgstr "Nombre de archivo MPEG:"
 
 #~ msgid "Flowblade Batch Render PID file found!"
-#~ msgstr "Lotes Flowblade Render archivo PID encontrado!"
+#~ msgstr "¡Se encontró el archivo PID de renderizado por lotes de Flowblade!"
 
 #~ msgid ""
 #~ "Only select <b>'Force Launch'</b> if Render Queue not already running!"
 #~ msgstr ""
-#~ "Sólo seleccione <b> 'Fuerza lanzamiento' </ b> si Render Queue no se está "
-#~ "ejecutando!"
+#~ "¡Sólo seleccione <b> 'Fuerza lanzamiento' </ b> si la cola de renderizado!"
+#~ " aun no se esta ejecutando"
 
 #~ msgid "Consolidate Selected Blanks"
-#~ msgstr "Consolidar Blanks seleccionados"
+#~ msgstr "Consolidar Espacios en Blanco seleccionados"
 
 #~ msgid "Consolidate All Blanks"
-#~ msgstr "Consolidar Todos los espacios en blanco"
+#~ msgstr "Consolidar Todos los Espacios en Blanco"
 
 #~ msgid "Consolidate"
 #~ msgstr "Consolidar"
